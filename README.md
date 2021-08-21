@@ -6,5 +6,5 @@ e a biblioteca TKinter para criar a GUI.
 
 obs.: Talvez seja necessario instalar o modulo requests.
 No terminal, digite "pip show requests" (sem aspas) para 
-conferir se o odulo esta disponível. Caso não esteja, digite
+conferir se o módulo esta disponível. Caso não esteja, digite
 "pip install requests" para instala-lo.
